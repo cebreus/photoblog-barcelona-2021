@@ -1,29 +1,29 @@
 {
   "version": 3,
   "plannerVersion": 1,
-  "snapshotId": "7c80edf1e7d9ee5c67436571687dc84a405a6b73dc93ba28d433fafd369240fe",
+  "snapshotId": "8f86d37f0478a2c52e5d8c68b2dd45e24b5bd48052d775fe858855400f8f1ff0",
   "gallery": "barcelona-2021",
-  "updatedAt": "2026-10-09T19:21:08.847Z",
-  "locationsSha256": "038af8d57f337e6a3f41670e09328e07804083e282b97f084f19ee866b01c036",
+  "updatedAt": "2026-10-30T13:21:19.594Z",
+  "locationsSha256": "37dcaa47b150beb019b1e87bf26954d4c00f1b50f89965b50e632ce2116f2cd2",
   "byZoom": {
     "0": 1,
     "1": 4,
     "2": 16,
-    "3": 64,
-    "4": 256,
-    "5": 1024,
+    "3": 9,
+    "4": 9,
+    "5": 12,
     "6": 16,
     "7": 18,
     "8": 18,
     "9": 24,
     "10": 24,
     "11": 70,
-    "12": 90,
-    "13": 117,
-    "14": 277,
-    "15": 370,
-    "16": 498,
-    "17": 763
+    "12": 92,
+    "13": 125,
+    "14": 310,
+    "15": 419,
+    "16": 547,
+    "17": 812
   },
   "layers": {
     "street": {
@@ -32,11 +32,11 @@
       "mimeType": "image/png",
       "path": "map-tiles-street",
       "attribution": "© CARTO; © OpenStreetMap contributors",
-      "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "carto-voyager-legacy-trial",
       "maxZoom": 17,
-      "expected": 3650,
-      "sha256": "6ddde9fe7516d4a49a9915949e516fcebcd6e99097607a38e2bf93da866c01d2",
+      "expected": 2526,
+      "sha256": "d30b1a709668e5245687031c3962558743a3ba22f87fdcd627888367872c9c44",
       "acquiredAt": "2026-10-09T19:21:08.847Z"
     },
     "satellite": {
@@ -45,11 +45,11 @@
       "mimeType": "image/jpeg",
       "path": "map-tiles-satellite",
       "attribution": "© Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community",
-      "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "esri-world-imagery-legacy-trial",
       "maxZoom": 16,
-      "expected": 2887,
-      "sha256": "77f579ae3229504965c65d6c27168b67e42391e61e36530cc14b75bd018e9520",
+      "expected": 1714,
+      "sha256": "a38cd2cb4fa25dbe1ceb0d9331cc9f4c1e8d80dd20ab9c5839e1e87c11fb0300",
       "acquiredAt": "2026-10-09T19:21:08.847Z"
     }
   }
